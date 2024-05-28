@@ -38,3 +38,7 @@ h1 {
   .menu-li {
     display: inline;
   }
+
+  img {
+    display: inline-block;
+  }
